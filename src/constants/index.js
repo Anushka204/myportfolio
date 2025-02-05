@@ -69,7 +69,46 @@ export const myProjects = [
             'The game uses Kaboom.js, a lightweight game development framework, to handle collision detection, sprite animations, and game mechanics.The game features smooth controls, simple mechanics, and a clean UI, making it fun and easy to play for users of all ages.',
         href: 'https://flappybird-game-3y4e.vercel.app/',
         texture: '/textures/project/flappy.mp4',
-        logo: '/assets/bird.png',
+        logo: '/assets/flappybird.png',
+        logoStyle: {
+            backgroundColor: '#60f5a1',
+            background:
+                'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+         
+            boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+        },
+        spotlight: '/assets/spotlight3.png',
+        tags: [
+            {
+                id: 1,
+                name: 'React.js',
+                path: '/assets/react.svg',
+            },
+            {
+                id: 2,
+                name: 'TailwindCSS',
+                path: 'assets/tailwindcss.png',
+            },
+            {
+                id: 3,
+                name: 'TypeScript',
+                path: '/assets/typescript.png',
+            },
+            {
+                id: 4,
+                name: 'Framer Motion',
+                path: '/assets/framer.png',
+            },
+        ],
+    },
+    {
+        title: 'Apple Redefined - A Stunning UI Experience',
+        desc: '  It is a React-based project that replicates the sleek, modern, and interactive experience of Apples official website. You focused on UI precision, responsiveness, and smooth animations to deliver an Apple-like feel',
+        subdesc:
+            'Built using React and Tailwind CSS, it features a minimalist aesthetic with clean typography, ample whitespace, and smooth animations. The project includes a fully responsive design, ensuring seamless adaptability across desktops, tablets, and mobile devices. ',
+        href: 'https://apple-website-sagg.vercel.app/',
+        texture: '/textures/project/apple.mp4',
+        logo: '/assets/apple.jpg',
         logoStyle: {
             backgroundColor: '#60f5a1',
             background:
