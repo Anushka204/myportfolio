@@ -19,7 +19,7 @@ const About = () => {
                 {/* First Grid Item */}
                 <div className="col-span-1 xl:row-span-3">
                     <div className="grid-container">
-                        <img src="/assets/profile.png" alt="grid-1" className="w-full h-[276px] object-cover"/>
+                        <img src="/assets/profile2.png" alt="grid-1" className="w-full h-[276px] object-cover"/>
                         <div>
                             <p className="grid-headtext">Hi, I'm Anushka</p>
                             <p className="grid-subtext"> A digital alchemist turning code into captivating 3D experiences. With a blend of frontend flair and backend brilliance, I conjure animated websites that not only dazzle but also deliver.
