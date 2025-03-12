@@ -2,23 +2,23 @@
 export const navLinks = [
     {
         id: 1,
-        name: 'Home',
-        href: '#home',
+        name: 'Linkedin',
+        href: 'https://www.linkedin.com/in/anushka-sharma-9bb4a028a/',
     },
     {
         id: 2,
-        name: 'About',
-        href: '#about',
+        name: 'GitHub',
+        href: 'https://github.com/Anushka204',
     },
     {
         id: 3,
-        name: 'Work',
-        href: '#work',
+        name: 'Leetcode',
+        href: 'https://leetcode.com/u/2406/',
     },
     {
         id: 4,
         name: 'Contact',
-        href: '#anushka.sh2004@gmail.com',
+        href: 'anushka.sh2004@gmail.com',
     },
 ];
 
@@ -33,6 +33,43 @@ export const myProjects = [
         href: 'https://haven-yrx6.vercel.app/',
         texture: '/textures/project/haven.mp4',
         logo: '/assets/haven.png',
+        logoStyle: {
+            backgroundColor: '#2A1816',
+            border: '0.2px solid #36201D',
+            boxShadow: '0px 0px 60px 0px #AA3C304D',
+        },
+        spotlight: '/assets/spotlight1.png',
+        tags: [
+            {
+                id: 1,
+                name: 'React.js',
+                path: '/assets/react.svg',
+            },
+            {
+                id: 2,
+                name: 'TailwindCSS',
+                path: 'assets/tailwindcss.png',
+            },
+            {
+                id: 3,
+                name: 'TypeScript',
+                path: '/assets/typescript.png',
+            },
+            {
+                id: 4,
+                name: 'Framer Motion',
+                path: '/assets/framer.png',
+            },
+        ],
+    },
+    {
+        title: 'AI Content Analysis Platform ',
+        desc: 'an AI-powered tool designed to help content creators maximize the potential of their YouTube videos by providing deep insights, automated content generation, and strategic recommendations.',
+        subdesc:
+            'Built using Next.js 15, React 19, and AI SDK, the platform streamlines content creation and optimization for increased engagement and visibility.',
+        texture: '/textures/project/aiagent.mp4',
+        href: 'https://ai-agent-henna.vercel.app/',
+        logo: '/assets/aiagentlogo.png',
         logoStyle: {
             backgroundColor: '#2A1816',
             border: '0.2px solid #36201D',

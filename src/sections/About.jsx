@@ -68,7 +68,7 @@ const About = () => {
                         <img src="/assets/grid3.png" alt="grid-3" className="w-full h-[266px] object-cover"/>
                         <div>
                             <p className="grid-headtext">The Art of Coding</p>
-                            <p className="grid-subtext">Like a digital nomad, I explore the vast landscape of code. Each project is a new territory, filled with unique challenges and exciting discoveries, where creativity knows no bounds.</p>
+                            <p className="grid-subtext">I see coding as an adventure, exploring new ideas and solving unique challenges with each project. It’s a creative journey where there are no limits — just endless possibilities to discover and create.</p>
                         </div>
                     </div>
                 </div>

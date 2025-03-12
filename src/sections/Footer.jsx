@@ -8,11 +8,7 @@ const Footer = () => {
                 <p>Privacy Policy</p>
             </div>
             <div className="flex gap-3">
-                <div className="social-icon">
-                    <a href="https://github.com/Anushka204" target="_blank" rel="noopener noreferrer">
-                        <img src="/assets/github.svg" alt="GitHub" className="w-1/2 h-1/2" />
-                    </a>
-                </div>
+        
                 <p className="text-white-500">@ 2024 Anushka. All rights reserved.</p>
             </div>
         </section>
