@@ -22,7 +22,7 @@ const About = () => {
                         <img src="/assets/profile2.png" alt="grid-1" className="w-full h-[276px] object-cover"/>
                         <div>
                             <p className="grid-headtext">Hi, I'm Anushka</p>
-                            <p className="grid-subtext"> A digital alchemist turning code into captivating 3D experiences. With a blend of frontend flair and backend brilliance, I conjure animated websites that not only dazzle but also deliver.
+                            <p className="grid-subtext"> Hi, I’m Anushka Sharma — a 4th Year Computer Science Engineering Student.I specialize in full-stack development, backend architecture, and cloud-native technologies. Throughout my academic journey, I’ve built a variety of projects — from AI-powered SaaS applications, e-commerce platforms, real-time dashboards, to system design-heavy backend services.
 
                             </p>
                         </div>
@@ -35,7 +35,7 @@ const About = () => {
                         <img src="/assets/grid2.png" alt="grid-2" className="w-full h-[500px] object-cover"/>
                         <div>
                             <p className="grid-headtext"> My Arsenal of Code</p>
-                            <p className="grid-subtext">  I turn ideas into interactive experiences using JavaScript and TypeScript. Whether it’s a snappy front end or a robust back end, I’m all about making technology work for you. Let’s build something amazing together!</p>
+                            <p className="grid-subtext">  I enjoy turning complex problems into simple, elegant solutions using technologies like React, Next.js, Node.js, PostgreSQL, Docker, and Kubernetes. I have also worked on deploying and scaling applications on AWS, integrating APIs, and building efficient CI/CD pipelines.</p>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@ const About = () => {
                     </div>
                     <div className="text-center">
                         <p className="grid-headtext"> Coding Beyond Borders</p>
-                        <p className="grid-subtext">Like a digital nomad, I explore the vast landscape of code. Each project is a new territory, filled with unique challenges and exciting discoveries, where creativity knows no bounds.</p>
+                        <p className="grid-subtext">For me, coding isn't just about syntax — it’s about crafting experiences, solving problems, and creating software that people actually use and love</p>
                         <Button name="Contact me" isBeam containerClass="w-full mt-10"/>
                     </div>
                 </div>
@@ -67,8 +67,8 @@ const About = () => {
                     <div className="grid-container">
                         <img src="/assets/grid3.png" alt="grid-3" className="w-full h-[266px] object-cover"/>
                         <div>
-                            <p className="grid-headtext">The Art of Coding</p>
-                            <p className="grid-subtext">I see coding as an adventure, exploring new ideas and solving unique challenges with each project. It’s a creative journey where there are no limits — just endless possibilities to discover and create.</p>
+                            <p className="grid-headtext">Engineering Scalable Solutions</p>
+                            <p className="grid-subtext">Currently, I’m actively seeking software engineering opportunities where I can contribute, grow, and continue building impactful solutions.I’m passionate about solving real-world problems, collaborating with teams, and continuously learning to build scalable, high-impact solutions.</p>
                         </div>
                     </div>
                 </div>

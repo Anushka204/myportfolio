@@ -63,6 +63,43 @@ export const myProjects = [
         ],
     },
     {
+        title: 'Prepwise — AI-Powered Interview Preparation Platform',
+        desc: 'Prepwise allows users to simulate job interviews with AI voice assistants, receive real-time feedback, and review transcripts — all within a modern, responsive dashboardal entries with mood tracking and categorize content into collections',
+        subdesc:
+            'Built with Next.js, Firebase, TailwindCSS, and Vapi voice agents, Prepwise helps users practice job interviews using AI-powered voice simulations. ',
+        href: 'https://ai-mock-interviews-fkgpgty5d-anushka-sharmas-projects-4c3d52d9.vercel.app/sign-in',
+        texture: '/textures/project/prepwise.mp4',
+        logo: '/assets/prepwise.ico',
+        logoStyle: {
+            backgroundColor: '#2A1816',
+            border: '0.2px solid #36201D',
+            boxShadow: '0px 0px 60px 0px #AA3C304D',
+        },
+        spotlight: '/assets/spotlight1.png',
+        tags: [
+            {
+                id: 1,
+                name: 'React.js',
+                path: '/assets/react.svg',
+            },
+            {
+                id: 2,
+                name: 'TailwindCSS',
+                path: 'assets/tailwindcss.png',
+            },
+            {
+                id: 3,
+                name: 'TypeScript',
+                path: '/assets/typescript.png',
+            },
+            {
+                id: 4,
+                name: 'Framer Motion',
+                path: '/assets/framer.png',
+            },
+        ],
+    },
+    {
         title: 'AI Content Analysis Platform ',
         desc: 'an AI-powered tool designed to help content creators maximize the potential of their YouTube videos by providing deep insights, automated content generation, and strategic recommendations.',
         subdesc:

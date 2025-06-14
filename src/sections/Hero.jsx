@@ -25,7 +25,7 @@ const Hero = () => {
                     Hi, I am Anushka<span className="waving-hand">👋🏻</span>
                 </p>
                 <p className="hero_tag text-gray_gradient text-center mt-4">
-                    Building Web Solutions for Brands
+                     Engineer. Creator. Problem-Solver.
                 </p>
             </div>
             <div className="w-full h-full absolute inset-0">
